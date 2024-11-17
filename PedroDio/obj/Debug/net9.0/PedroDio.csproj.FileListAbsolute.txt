@@ -1,0 +1,15 @@
+C:\ProjetosC#\PedroDio\bin\Debug\net9.0\PedroDio.exe
+C:\ProjetosC#\PedroDio\bin\Debug\net9.0\PedroDio.deps.json
+C:\ProjetosC#\PedroDio\bin\Debug\net9.0\PedroDio.runtimeconfig.json
+C:\ProjetosC#\PedroDio\bin\Debug\net9.0\PedroDio.dll
+C:\ProjetosC#\PedroDio\bin\Debug\net9.0\PedroDio.pdb
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\PedroDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\PedroDio.AssemblyInfoInputs.cache
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\PedroDio.AssemblyInfo.cs
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\PedroDio.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\PedroDio.sourcelink.json
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\PedroDio.dll
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\refint\PedroDio.dll
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\PedroDio.pdb
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\PedroDio.genruntimeconfig.cache
+C:\ProjetosC#\PedroDio\obj\Debug\net9.0\ref\PedroDio.dll
